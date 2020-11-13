@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.AssemblyInfo.cs
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.exe
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.deps.json
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.runtimeconfig.json
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.dll
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\bin\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.pdb
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.dll
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.pdb
+C:\Users\dev\Desktop\Regis\Projeto\Backend\Projeto 4 Exercicio 1\obj\Debug\netcoreapp3.1\Projeto 4 Exercicio 1.genruntimeconfig.cache

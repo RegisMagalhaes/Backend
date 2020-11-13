@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto2_Media/1.0.0": {
+        "runtime": {
+          "Projeto2_Media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto2_Media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

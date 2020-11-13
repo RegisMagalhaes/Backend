@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\bin\Debug\netcoreapp3.1\Projeto2_Media.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Projeto2_Media\obj\Debug\netcoreapp3.1\Projeto2_Media.genruntimeconfig.cache
